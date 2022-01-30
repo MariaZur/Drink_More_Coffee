@@ -1,0 +1,27 @@
+.flex-wrap__row--symbols{
+    display:flex;
+    flex-direction: row;
+    width: 79%;
+    
+}
+
+    
+.flex-container__column--symbol{
+    display:flex;
+    flex-direction: column;
+    min-width: 40%;
+    justify-content: space-around;
+   
+
+ 
+}
+.image-wrap--symbl-txt{
+align-self: center;
+
+
+}
+.cup{
+display: flex;
+max-width: 100%;
+align-self: center;
+}

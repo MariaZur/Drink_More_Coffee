@@ -1,0 +1,81 @@
+.h1{
+    font-family:var(--family);
+    color:var(--font-color-dark-back);
+    line-height: 100%;
+    letter-spacing: 0em;
+    text-align: center;
+    font-style: normal;
+}
+  
+.h1__primary--main {
+    font-size: 12.5vw;
+    font-weight: 900;
+}
+.h1__primary--sub {
+    font-size: 3.5vw;
+    font-weight: 400;
+}  
+
+.h2{
+    font-size: 8vw;
+    font-style:normal;
+    font-weight: 900;
+    line-height: 6.9vw;
+    letter-spacing: 0em;
+}
+    
+.h2--left{
+    align-self: flex-start;
+   
+  }
+  
+.h2--left--black{
+    padding-top:7vw;
+    color:black;
+  }
+
+.h2--left--light{
+    color: var(--font-color-dark-back);
+}
+
+.h2--center{
+    align-self: center;
+}
+.h2--center--light{
+    color: var(--font-color-dark-back);
+}
+
+.h2--center--dark{
+    color: var(--font-color-light-back);
+}
+
+.h3{
+    font-size: 7vw;
+    font-style:normal;
+    font-weight: 900;
+    line-height: 8vw;
+    letter-spacing: 0em;
+}
+
+.h3--center{
+    align-self: center;
+}
+
+
+.h3--center--light{
+     color: var(--font-color-dark-back);
+}
+article{
+    font-size: 3.2vw;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 3.5vw;
+    letter-spacing: 0vw;
+  }
+
+.content--light{
+    color:var(--font-color-dark-back);
+    margin-top: 7vh;
+}
+
+

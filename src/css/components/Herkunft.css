@@ -1,0 +1,33 @@
+.container__outer--backimage{
+    position: relative;
+    background-image: url(../images/FEND-Coffee-bags.png);
+    background-size:contain;
+    background-repeat: no-repeat;
+    background-color: white;
+    height:55vh;
+    
+}
+.container__inner--backimage{
+    
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 25%;
+   
+}
+.flex-container__center{
+    flex-direction: column;
+    display:flex;
+    align-items: center;
+    min-height: 100%;
+    max-width: 60%;
+    justify-content: space-between;
+}
+
+
+/*.btn--light {height: 30px;
+background-color: springgreen;}*/
+    
+
+
+

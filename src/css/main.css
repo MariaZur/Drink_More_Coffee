@@ -1,3 +1,10 @@
 @import "variables.css";
 @import "base.css";
+@import "components/fonts.css";
 @import "components/hero.css";
+@import "components/flex_sorten.css";
+@import "components/Herkunft.css";
+@import "components/symbols.css";
+@import "components/flex_drin.css";
+@import "components/flex_map.css";
+

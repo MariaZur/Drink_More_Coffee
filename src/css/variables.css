@@ -1,7 +1,14 @@
 :root {
   /* Colors */
-  --div-color: red;
+--back-color:#E5E5E5;
+--color-dark:#000000;
+--color-light:#FFFFFF;
 
-  /* Text Styles */
-  --h2-font-size: 26px;
+
+  /* Text Styles*/
+  --family:Roboto;
+  --font-color-dark-back:var(--color-light);
+  --font-color-light-back:var(--color-dark);
+  
+  
 }

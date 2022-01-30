@@ -1,0 +1,23 @@
+.flex-container__outer--small--light-back{
+    border:0;
+
+}
+.flex-container__inner_dev-1{
+    background-color: white;
+    
+}
+.border{
+    border: 24px solid white;
+
+}
+.flex-container__map{
+    display: flex;
+    width:100%;
+    justify-content: center;
+    height:40rem;
+
+    }
+iframe{
+max-height: 100%;
+max-width: 100%;
+}

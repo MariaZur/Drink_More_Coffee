@@ -1,0 +1,50 @@
+.flex-container__outer--bigger--light-back{
+    display: flex;
+    flex-direction:column;
+    background-color:var(--color-light);
+    border: 2.4em solid var(--color-light);
+    height:100rem;
+    width:100vw;
+    align-content: center;
+    padding-top: 7.5rem white;
+}
+ 
+
+.flex-container__column--four{
+    display:flex;
+    flex-direction: column;
+    width: 100%;
+    min-height:75vh;
+    column-gap: 10vw;
+    row-gap: 5vh;
+    padding-top: 5vh;
+    
+}
+
+
+.flex-container__image{
+    width: 50vw;
+    background-color:var(--back-color);
+}
+.product__img{
+    min-width: 100%;
+}
+
+
+
+    .button{
+        align-self: center;
+        background-color:var(--back-color-second) ;
+        color:var(--back-color-first);
+        border:.3rem solid var(--back-color-first);
+        border-radius: .5rem;
+        max-width: fit-content;
+        align-items: center;
+        text-align:center;
+        font-size:100%;
+        font-style: regular;
+        font-size: 1.4rem;
+        line-height: 1.8rem;
+        line-height: 110%; /* was ist das hier kit  den 2 Angaben?*/
+        vertical-align: top;
+    }
